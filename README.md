@@ -1,2 +1,3 @@
-Video se cap nhat sau
-Em xin loi, vi import loan xa ngau nen bai khong duoc nhu y a
+Video sẽ cập nhật sau. <br>
+Em xin lỗi, import loạn quá nên bài làm không như ý ạ
+
